@@ -1,0 +1,1 @@
+Angularjs Skeleton app.
